@@ -40,8 +40,7 @@ An app that has six different sites to find free icons. .
 You can change sites in the app by clicking one of the six icons in the upper right.
 
 ## Download
-## https://github.com/papa-boynton/Iconic-TheyCallMePapa/releases/tag/latest
-https://droptopfour.com/community-apps/
+[Droptop Four Community Apps](https://droptopfour.com/community-apps/)
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton).
