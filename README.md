@@ -31,7 +31,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](Images/ScreenShot.png)
+![screenshot](Images/Screenshot.png)
 
 ## Key Features
 An app that has six different sites to find free icons. .
